@@ -1,1 +1,5 @@
 ._*.py
+images/._*
+._README.md
+.ipynb_checkpoints
+*_sol.ipynb
