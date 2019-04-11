@@ -9,7 +9,6 @@ In case of any problems, contact us via:
 ## Preparing for the Tutorials
 
  - Follow the steps below to setup the Ipython notebook
- - Run the first lines, of the dae_tf.ipynb notebook. This will download the data
  - Make sure this worked and report if any troubles arise
  
 If you prefer, you can also run it locally or on the machine of your choice. Feel free to download the notebooks, data and setup the right environment (there is an anaconda environment included in the repo).
