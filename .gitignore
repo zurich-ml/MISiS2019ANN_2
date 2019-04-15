@@ -2,4 +2,4 @@
 images/._*
 ._README.md
 .ipynb_checkpoints
-*_sol.ipynb
+#*_sol.ipynb
