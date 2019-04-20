@@ -1,10 +1,12 @@
 # MISiS2019ANN_2
-Neural Network introduction at MISiS (Moscow)
+Neural Network introduction at MISiS (Moscow), Tutorial 2
 
 
 In case of any problems, contact us via:
  - Jonas Eschle: jonas.eschle@uzh.ch
  - Davide Lancierini: davide.lancierini@uzh.ch
+ 
+_The slides used during the turorial are just the Jupyter Notebooks ".ipynb" found in this repository. They can be saved as slides for presentation purpose_
 
 ## Preparing for the Tutorials
 
